@@ -5,10 +5,6 @@ Here is the research paper [Entity Embeddings arxiv](https://arxiv.org/abs/1604.
 
 Feature Engineering is not useful for Neural Networks as they are able to do that part by themself, and the missing value imputation was done to apply idea of Entity Embeddings on the categorical features
 
-
-## Result
-We get an AUC ROC score of 0.855307
-
 # Cassava Leaf Disease Prediction
 
 ## Table of Content
@@ -20,6 +16,8 @@ We get an AUC ROC score of 0.855307
   * [Evaluation Metric](#evaluation-metric)
   * [EDA Insights](#eda-insights)
   * [Cross-Validation](#cross-validation)
+  * [Model](#model)
+  * [Result](#result)
 
 ## Overview
 This is a simple classification project which uses Xgboost (Not uploaded here) and Deep Neural Network models trained on the top of keras API. The trained model that takes patients vitals and information as input and predict wether the patient has Diabetes-mellitus or not.
@@ -67,3 +65,7 @@ We are going to use Stratified K Fold cross-validation method, because there is 
 
 ## Model
 We are using Neural Network, which takes numerical features, and categorical features embedding (Entity Embeddings) and 2 Xgboost Models
+
+
+## Result
+We get an AUC ROC score of 0.855307
