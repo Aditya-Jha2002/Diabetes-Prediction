@@ -1,5 +1,3 @@
-# Diabetes-Prediction
-
 The task has been accomplished by using Neural Networks, and uses the idea of <b>Entity Embeddings</b>,
 Here is the research paper [Entity Embeddings arxiv](https://arxiv.org/abs/1604.06737), and this project implents that idea
 
