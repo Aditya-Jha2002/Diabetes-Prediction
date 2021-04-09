@@ -36,7 +36,9 @@ The data is from MIT’s GOSSIS (Global Open Source Severity of Illness Score) i
 4. tensorflow
 
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
+![](https://forthebadge.com/images/badges/made-with-python.svg)<br>
+![](https://img.stackshare.io/service/5601/keras.png)
+![](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/07/scikit-learn-logo.png)
 
 ## Labels
 {0 : patient not diagnosed with Diabetes Mellitus,
