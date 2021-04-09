@@ -3,7 +3,7 @@ Here is the research paper [Entity Embeddings arxiv](https://arxiv.org/abs/1604.
 
 Feature Engineering is not useful for Neural Networks as they are able to do that part by themself, and the missing value imputation was done to apply idea of Entity Embeddings on the categorical features
 
-# Cassava Leaf Disease Prediction
+# Diabetes Prediction
 
 ## Table of Content
   * [Overview](#overview)
