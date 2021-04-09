@@ -27,7 +27,7 @@ Knowledge about chronic conditions such as diabetes can inform clinical decision
 
 ## Data
 
-To download the data you can go to the following ![link](https://www.kaggle.com/c/widsdatathon2021/data) or use the kaggle api by typing the following command in the terminal ```kaggle competitions download -c widsdatathon2021```
+To download the data you can go to the following [link](https://www.kaggle.com/c/widsdatathon2021/data) or use the kaggle api by typing the following command in the terminal ```kaggle competitions download -c widsdatathon2021```
 The data is from MIT’s GOSSIS (Global Open Source Severity of Illness Score) initiative, it can be found in (`../inputs/wids2021/`)
 * TrainingWiDS2021.csv is the training file
 
